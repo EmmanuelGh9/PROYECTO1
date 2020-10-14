@@ -1,0 +1,16 @@
+<DOCTIPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+    <title>ENERGÍAS NO RENOVABLES</title>
+           <link rel="stylesheet" href="">
+</head>
+    <body    BACKGROUND="fondo_5.jpg">
+        <h1 align="CENTER" style="background-color:forestgreen; color:beige; font-size: 80px"> <!-- TITULO PRINCIPAL DE LA PAGINA -->
+            <FONT FACE="Arial"><I><b>" Energías No
+                <br>Renovables"</b></I></FONT></h1>  
+        <video src="norenovables1.mp4" width="900" align="CENTER" height="300" title="Que Son Las No Energias Renovables" controls ></video><br> <br>
+           <a href="file:///C:/Users/pc/Desktop/startbootstrap-blog-post-gh-pages/index.html" align="CENTER" FACE="Arial" size="8px"> Regresar </a>
+    </body>
+    </html>
+</DOCTIPE>
