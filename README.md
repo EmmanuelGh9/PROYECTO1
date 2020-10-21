@@ -13,3 +13,5 @@ undreline2
 # Hola
 -formato _cursiva_  de la primera forma
 -formato "cursiva" de la segunda forma
+
+- formato _negrita2_
