@@ -15,3 +15,14 @@ undreline2
 -formato ""cursiva"" de la segunda forma
 - formato __negrita2__
 - formato ~~sub~~
+1. hola
+2. adios 
+3. como estas
+# links
+<a href= https://www.google.com/">Este es el link HTML </a>
+## image
+ 
+ 
+│ nombre │ apellido │
+│ -------- │ ------- │
+│ Andres │ Hernandez │
