@@ -14,4 +14,5 @@ undreline2
 -formato _cursiva_  de la primera forma
 -formato "cursiva" de la segunda forma
 
-- formato _negrita2_
+- formato __negrita2__
+- formato ~~sub~~
