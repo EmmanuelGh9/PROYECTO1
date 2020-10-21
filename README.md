@@ -11,8 +11,7 @@ __________
 undreline2
 ===========
 # Hola
--formato _cursiva_  de la primera forma
--formato "cursiva" de la segunda forma
-
+-formato __cursiva__  de la primera forma
+-formato ""cursiva"" de la segunda forma
 - formato __negrita2__
 - formato ~~sub~~
